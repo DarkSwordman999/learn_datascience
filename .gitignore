@@ -1,0 +1,23 @@
+# Jupyter / Colab
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Data (large files)
+datasets/*.csv
+datasets/*.zip
+datasets/*.parquet
+datasets/*.pkl
+
+# Virtual environments
+.venv/
+venv/
