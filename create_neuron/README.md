@@ -26,8 +26,9 @@ $$
 <div align="center">
 
   <p><strong>Архитектура искусственного нейрона</strong></p>
+
   <img
-    src="https://contest.yandex.ru/tracks/ml/_assets/deep-learning-introduction/fully-connected-neural-networks/16_1_89d47c2aca_9e25689e44-framed.svg"
+    src="https://wsrv.nl/?url=https%3A%2F%2Fcontest.yandex.ru%2Ftracks%2Fml%2F_assets%2Fdeep-learning-introduction%2Ffully-connected-neural-networks%2F16_1_89d47c2aca_9e25689e44-framed.svg&bg=ffffff&w=900&output=png"
     alt="Архитектура искусственного нейрона"
     width="600"
   >
@@ -35,14 +36,14 @@ $$
   <br><br>
 
   <p><strong>Схема устройства нейрона</strong></p>
+
   <img
-    src="https://neerc.ifmo.ru/wiki/images/a/a5/Искусственный_нейрон_схема.png"
+    src="https://wsrv.nl/?url=https%3A%2F%2Fneerc.ifmo.ru%2Fwiki%2Fimages%2Fa%2Fa5%2F%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BD%D0%B5%D0%B9%D1%80%D0%BE%D0%BD_%D1%81%D1%85%D0%B5%D0%BC%D0%B0.png&bg=ffffff&w=900&output=png"
     alt="Схема устройства нейрона"
     width="600"
   >
 
 </div>
-
 
 # Создание искусственного нейрона
 
