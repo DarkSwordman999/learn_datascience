@@ -22,9 +22,27 @@ $$
 
 ### Схемы исcкуственного нейрона:
 
-![Архитектура исскуственного нейрона](https://contest.yandex.ru/tracks/ml/_assets/deep-learning-introduction/fully-connected-neural-networks/16_1_89d47c2aca_9e25689e44-framed.svg)
 
-![Схема устройства нейрона](https://neerc.ifmo.ru/wiki/images/a/a5/Искусственный_нейрон_схема.png)
+<div align="center">
+
+  <p><strong>Архитектура искусственного нейрона</strong></p>
+  <img
+    src="https://contest.yandex.ru/tracks/ml/_assets/deep-learning-introduction/fully-connected-neural-networks/16_1_89d47c2aca_9e25689e44-framed.svg"
+    alt="Архитектура искусственного нейрона"
+    width="600"
+  >
+
+  <br><br>
+
+  <p><strong>Схема устройства нейрона</strong></p>
+  <img
+    src="https://neerc.ifmo.ru/wiki/images/a/a5/Искусственный_нейрон_схема.png"
+    alt="Схема устройства нейрона"
+    width="600"
+  >
+
+</div>
+
 
 # Создание искусственного нейрона
 
